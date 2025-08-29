@@ -1,0 +1,14 @@
+# LazyVim .gitignore
+/lazy-lock.json
+/lazy-lock.json.lua
+/spell/
+/plugin/
+/undo/
+/backup/
+/swap/
+/log/
+/netrwhist
+*.log
+*.swp
+*.bak
+*.tmp
